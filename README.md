@@ -19,6 +19,8 @@ http://www.algorithmsilluminated.org/won2sample.pdf
 http://www.algorithmsilluminated.org/won3sample.pdf
 http://www.algorithmsilluminated.org/won4sample.pdf
 
+# Solved Problems
+https://github.com/SSQ/Coursera-Stanford-Algorithms-Specialization
 
 
 # Automata Theory
