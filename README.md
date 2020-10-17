@@ -11,7 +11,9 @@ All 4 books and video lectures on YT +bonus videos here
 http://www.algorithmsilluminated.org/
 https://www.edx.org/course/algorithms-design-and-analysis  / https://www.coursera.org/specializations/algorithms
 https://www.edx.org/course/algorithms-design-and-analysis-part-2-2
-### Companion Book
+### Companion Book/S
+https://www.pdfdrive.com/the-algorithm-design-manual-e20883455.html
+
 https://theory.stanford.edu/~tim/won1samplefinal.pdf
 http://www.algorithmsilluminated.org/won2sample.pdf
 http://www.algorithmsilluminated.org/won3sample.pdf
