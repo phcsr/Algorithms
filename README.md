@@ -1,6 +1,23 @@
 # Udacity-Algorithms
-Free Udacity algorithms courses
+Free good algorithms courses
 
 https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
 https://www.udacity.com/course/intro-to-algorithms--cs215
 https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401
+
+
+# Stanford Courses
+All 4 books and video lectures on YT +bonus videos here
+http://www.algorithmsilluminated.org/
+https://www.edx.org/course/algorithms-design-and-analysis  / https://www.coursera.org/specializations/algorithms
+https://www.edx.org/course/algorithms-design-and-analysis-part-2-2
+### Companion Book
+https://theory.stanford.edu/~tim/won1samplefinal.pdf
+http://www.algorithmsilluminated.org/won2sample.pdf
+http://www.algorithmsilluminated.org/won3sample.pdf
+http://www.algorithmsilluminated.org/won4sample.pdf
+
+
+
+# Automata Theory
+https://www.edx.org/course/automata-theory
