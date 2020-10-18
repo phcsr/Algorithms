@@ -13,6 +13,8 @@ https://www.edx.org/course/algorithms-design-and-analysis  / https://www.courser
 https://www.edx.org/course/algorithms-design-and-analysis-part-2-2
 ### Companion Book/S
 https://www.pdfdrive.com/the-algorithm-design-manual-e20883455.html
+Algorithims Illustrated Gdrive
+Python 3 Book Drive
 
 https://theory.stanford.edu/~tim/won1samplefinal.pdf
 http://www.algorithmsilluminated.org/won2sample.pdf
