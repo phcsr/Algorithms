@@ -24,6 +24,9 @@ http://www.algorithmsilluminated.org/won4sample.pdf
 # Solved Problems
 https://github.com/SSQ/Coursera-Stanford-Algorithms-Specialization
 
+CLRS SOLVED
+https://github.com/walkccc/CLRS
+
 
 # Automata Theory
 https://www.edx.org/course/automata-theory
