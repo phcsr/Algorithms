@@ -27,6 +27,7 @@ https://github.com/SSQ/Coursera-Stanford-Algorithms-Specialization
 CLRS SOLVED
 https://github.com/walkccc/CLRS
 
+https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
 
 # Automata Theory
 https://www.edx.org/course/automata-theory
